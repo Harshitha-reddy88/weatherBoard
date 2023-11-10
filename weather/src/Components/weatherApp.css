@@ -1,0 +1,54 @@
+.dashboard {
+    width: 310px;
+    padding: 50px;
+    padding-top: 20px;
+    margin: auto;
+    background-color: rgb(40, 215, 238);
+    border-radius: 50px;
+}
+
+.location {
+    background: linear-gradient( to right, #4821f3, #ff0818, #cf3723, #ee7a44);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.display {
+    display: flex;
+}
+
+.searchinImg {
+    width: 38px;
+    border-radius: 30px;
+}
+
+.searchBar {
+    padding: 10px 80px 10px 5px;
+    border-radius: 10px;
+    border: none;
+    border: 2px solid rgb(0, 229, 255);
+}
+
+.top {
+    margin-top: 50px;
+}
+
+.weatherImg {
+    width: 180px;
+    border-radius: 20px;
+    margin-left: 70px;
+}
+
+.margin {
+    text-align: center;
+}
+
+.data {
+    justify-content: space-between;
+}
+
+.Img {
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+}
